@@ -1,8 +1,15 @@
 import './App.css';
+import "bootstrap/dist/css/bootstrap.min.css";
+import CarsList from "./components/CarsList";
 
 function App() {
   return (
-    <div>inizio</div>
+    <div>
+
+    <CarsList />
+
+
+    </div>
   );
 }
 

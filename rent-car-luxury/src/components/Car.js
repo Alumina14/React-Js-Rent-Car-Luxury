@@ -1,5 +1,7 @@
 import React from 'react'
 
+// formattazione car per id
+
 function Car() {
     return (
         <div>
